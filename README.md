@@ -70,9 +70,6 @@ The system includes:
 <img width="1600" height="1486" alt="image" src="https://github.com/user-attachments/assets/852627b0-97e1-4cbe-b36e-270739aa5970" />
 
 
-## Graphs
-<img width="1251" height="1600" alt="image" src="https://github.com/user-attachments/assets/808a3c5b-26f3-475c-87d5-2bb4da0d5ee2" />
-
 
 
 ---
