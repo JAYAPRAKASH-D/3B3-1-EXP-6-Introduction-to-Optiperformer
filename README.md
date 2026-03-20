@@ -74,7 +74,6 @@ The system includes:
 <img width="1251" height="1600" alt="image" src="https://github.com/user-attachments/assets/808a3c5b-26f3-475c-87d5-2bb4da0d5ee2" />
 
 
-*(Insert plots of Optical Power, Q Factor, and BER vs. Fiber Length here)*
 
 ---
 
